@@ -1,0 +1,55 @@
+@media screen and (min-width: 500px) {
+    .container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding-bottom: 15rem;
+    }
+
+    .title-container{
+        display: initial;
+        width: 40rem;
+    }
+
+    .title-logo{
+        margin: 10.6rem;
+
+    }
+
+    .title-paragraph{
+        font-size: 2.4rem;
+        width: auto;
+    }
+
+    .form-container{
+        height: 5.2rem;
+    }
+
+    .form-input{
+        font-size: 1.7rem;
+    }
+
+    .form-log-in-btn{
+        height:4.8rem;
+        font-size: 2rem;
+    }
+
+    .form-forgot-password{
+        font-size: 1.4rem;
+    }
+
+    .form-create-account-btn{
+        height: 4.8rem;
+        line-height: 4.8rem;
+        font-size: 1.7rem;
+    }
+
+    .create-page-paragraph{
+        font-size: 1.4rem;
+    }
+
+
+    
+}
+
